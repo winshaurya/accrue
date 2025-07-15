@@ -12,6 +12,14 @@
 
 ---
 
+
+
+https://github.com/user-attachments/assets/0f572fd8-8b23-47c5-9251-144426aaabaf
+
+
+
+---
+
 ## 🧠 About This Project
 
 Hi, I’m Shaurya Mishra – a frontend-focused developer with a design-driven approach to problem-solving. **Accrue** was built to combine intuitive UI/UX with real-world utility in the finance domain.
@@ -141,6 +149,3 @@ Let’s talk design, code, and collaboration.
 
 ---
 
-## 📄 License
-
-MIT License – free to use, modify, and build on.
