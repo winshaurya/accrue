@@ -35,7 +35,6 @@ I wanted to solve a personal problem: keeping track of where my money goes.
 But more than that, I built **Accrue** to strengthen my skills in:
 - Designing clean user experiences
 - Structuring scalable full-stack projects
-- Working with secure auth flows (JWT)
 - Exploring background jobs and async logic (with **Inngest** integration potential)
 - Creating modern SPAs with **React + Vite**
 
@@ -46,7 +45,7 @@ But more than that, I built **Accrue** to strengthen my skills in:
 - 📥 Add income and expenses
 - 🧾 Categorize them by tag (e.g., Food, Rent, Salary)
 - 📊 Track totals with summaries
-- 🔐 JWT-based login/authentication
+- 🔐 sleek drag and drop feature 
 - 🌐 Fully responsive, mobile-friendly design
 - ⚙️ API-first backend with modular Express routes
 - 🔁 Potential for async processing using [Inngest](https://www.inngest.com)
@@ -65,13 +64,7 @@ But more than that, I built **Accrue** to strengthen my skills in:
 
 ---
 
-## 📸 Screenshots
 
-> _Placeholder – Add UI shots here_  
-> 📍 `assets/dashboard.png`  
-> 📍 `assets/add_expense.png`
-
----
 
 ## 🔍 Project Structure
 
@@ -116,14 +109,14 @@ cd ../client
 npm run dev
 ```
 
-Make sure to add a `.env` file for MongoDB URI and JWT secret in the server folder.
+Make sure to add a `.env` file for MongoDB URI in the server folder.
 
 ---
 
 ## 🔁 Future Enhancements
 
 - ✅ Add recurring transaction support
-- 📅 Monthly graph and trend tracking (D3.js or Chart.js)
+- 📅 Monthly graph and trend tracking (Chart.js)
 - 📤 Export to CSV or Excel
 - 🔔 Email reminders with Inngest + Resend
 - 💬 Chat-style assistant to log expenses faster
