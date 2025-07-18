@@ -138,7 +138,7 @@ Make sure to add a `.env` file for MongoDB URI in the server folder.
 Let’s talk design, code, and collaboration.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shaurya%20Mishra-blue?logo=linkedin)](https://www.linkedin.com/in/shaurya-mishra-0b4751204/)  
-[![GitHub](https://img.shields.io/badge/GitHub-winshaurya1-black?logo=github)](https://github.com/winshaurya1)
+[![GitHub](https://img.shields.io/badge/GitHub-winshaurya-black?logo=github)](https://github.com/winshaurya)
 
 ---
 
